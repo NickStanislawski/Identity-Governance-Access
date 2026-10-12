@@ -1,0 +1,37 @@
+[
+  {
+    "assignment": "A060",
+    "action": "revoke",
+    "status": "verified_absent",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "target": "synthetic snapshot"
+  },
+  {
+    "assignment": "A061",
+    "action": "revoke",
+    "status": "verified_absent",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "target": "synthetic snapshot"
+  },
+  {
+    "assignment": "A062",
+    "action": "revoke",
+    "status": "verified_absent",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "target": "synthetic snapshot"
+  },
+  {
+    "assignment": "A063",
+    "action": "revoke",
+    "status": "verified_absent",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "target": "synthetic snapshot"
+  },
+  {
+    "assignment": "A064",
+    "action": "revoke",
+    "status": "verified_absent",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "target": "synthetic snapshot"
+  }
+]

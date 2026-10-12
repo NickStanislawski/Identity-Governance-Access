@@ -1,0 +1,923 @@
+{
+  "identities": [
+    {
+      "id": "U001",
+      "department": "Finance",
+      "manager": "M0",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U002",
+      "department": "HR",
+      "manager": "M1",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U003",
+      "department": "IT",
+      "manager": "M2",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U004",
+      "department": "Sales",
+      "manager": "M3",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U005",
+      "department": "Operations",
+      "manager": "M4",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U006",
+      "department": "Finance",
+      "manager": "M0",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U007",
+      "department": "HR",
+      "manager": "M1",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U008",
+      "department": "IT",
+      "manager": "M2",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U009",
+      "department": "Sales",
+      "manager": "M3",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U010",
+      "department": "Operations",
+      "manager": "M4",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U011",
+      "department": "Finance",
+      "manager": "M0",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U012",
+      "department": "HR",
+      "manager": "M1",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U013",
+      "department": "IT",
+      "manager": "M2",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U014",
+      "department": "Sales",
+      "manager": "M3",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U015",
+      "department": "Operations",
+      "manager": "M4",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U016",
+      "department": "Finance",
+      "manager": "M0",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U017",
+      "department": "HR",
+      "manager": "M1",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U018",
+      "department": "IT",
+      "manager": "M2",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U019",
+      "department": "Sales",
+      "manager": "M3",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U020",
+      "department": "Operations",
+      "manager": "M4",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U021",
+      "department": "Finance",
+      "manager": "M0",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U022",
+      "department": "HR",
+      "manager": "M1",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U023",
+      "department": "IT",
+      "manager": "M2",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U024",
+      "department": "Sales",
+      "manager": "M3",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U025",
+      "department": "Operations",
+      "manager": "M4",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U026",
+      "department": "Finance",
+      "manager": "M0",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U027",
+      "department": "HR",
+      "manager": "M1",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U028",
+      "department": "IT",
+      "manager": "M2",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U029",
+      "department": "Sales",
+      "manager": "M3",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U030",
+      "department": "Operations",
+      "manager": "M4",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U031",
+      "department": "Finance",
+      "manager": "M0",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U032",
+      "department": "HR",
+      "manager": "M1",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U033",
+      "department": "IT",
+      "manager": "M2",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U034",
+      "department": "Sales",
+      "manager": "M3",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U035",
+      "department": "Operations",
+      "manager": "M4",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U036",
+      "department": "Finance",
+      "manager": "M0",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U037",
+      "department": "HR",
+      "manager": "M1",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U038",
+      "department": "IT",
+      "manager": "M2",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U039",
+      "department": "Sales",
+      "manager": "M3",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U040",
+      "department": "Operations",
+      "manager": "M4",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U041",
+      "department": "Finance",
+      "manager": "M0",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U042",
+      "department": "HR",
+      "manager": "M1",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U043",
+      "department": "IT",
+      "manager": "M2",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U044",
+      "department": "Sales",
+      "manager": "M3",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U045",
+      "department": "Operations",
+      "manager": "M4",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U046",
+      "department": "Finance",
+      "manager": "M0",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U047",
+      "department": "HR",
+      "manager": "M1",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U048",
+      "department": "IT",
+      "manager": "M2",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U049",
+      "department": "Sales",
+      "manager": "M3",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U050",
+      "department": "Operations",
+      "manager": "M4",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U051",
+      "department": "Finance",
+      "manager": "M0",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U052",
+      "department": "HR",
+      "manager": "M1",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U053",
+      "department": "IT",
+      "manager": "M2",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U054",
+      "department": "Sales",
+      "manager": "M3",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U055",
+      "department": "Operations",
+      "manager": "M4",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U056",
+      "department": "Finance",
+      "manager": "M0",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U057",
+      "department": "HR",
+      "manager": "M1",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U058",
+      "department": "IT",
+      "manager": "M2",
+      "active": true,
+      "last_login_days": 10
+    },
+    {
+      "id": "U059",
+      "department": "Sales",
+      "manager": "M3",
+      "active": true,
+      "last_login_days": 120
+    },
+    {
+      "id": "U060",
+      "department": "Operations",
+      "manager": "M4",
+      "active": false,
+      "last_login_days": 10
+    }
+  ],
+  "entitlements": [
+    {
+      "id": "Ledger:reader",
+      "application": "Ledger",
+      "role": "reader",
+      "owner": "M0",
+      "privileged": false
+    },
+    {
+      "id": "Ledger:editor",
+      "application": "Ledger",
+      "role": "editor",
+      "owner": "M0",
+      "privileged": false
+    },
+    {
+      "id": "Ledger:requester",
+      "application": "Ledger",
+      "role": "requester",
+      "owner": "M0",
+      "privileged": false
+    },
+    {
+      "id": "Ledger:approver",
+      "application": "Ledger",
+      "role": "approver",
+      "owner": "M0",
+      "privileged": false
+    },
+    {
+      "id": "Ledger:admin",
+      "application": "Ledger",
+      "role": "admin",
+      "owner": "M0",
+      "privileged": true
+    },
+    {
+      "id": "People:reader",
+      "application": "People",
+      "role": "reader",
+      "owner": "M1",
+      "privileged": false
+    },
+    {
+      "id": "People:editor",
+      "application": "People",
+      "role": "editor",
+      "owner": "M1",
+      "privileged": false
+    },
+    {
+      "id": "People:requester",
+      "application": "People",
+      "role": "requester",
+      "owner": "M1",
+      "privileged": false
+    },
+    {
+      "id": "People:approver",
+      "application": "People",
+      "role": "approver",
+      "owner": "M1",
+      "privileged": false
+    },
+    {
+      "id": "People:admin",
+      "application": "People",
+      "role": "admin",
+      "owner": "M1",
+      "privileged": true
+    },
+    {
+      "id": "Directory:reader",
+      "application": "Directory",
+      "role": "reader",
+      "owner": "M2",
+      "privileged": false
+    },
+    {
+      "id": "Directory:editor",
+      "application": "Directory",
+      "role": "editor",
+      "owner": "M2",
+      "privileged": false
+    },
+    {
+      "id": "Directory:requester",
+      "application": "Directory",
+      "role": "requester",
+      "owner": "M2",
+      "privileged": false
+    },
+    {
+      "id": "Directory:approver",
+      "application": "Directory",
+      "role": "approver",
+      "owner": "M2",
+      "privileged": false
+    },
+    {
+      "id": "Directory:admin",
+      "application": "Directory",
+      "role": "admin",
+      "owner": "M2",
+      "privileged": true
+    },
+    {
+      "id": "CRM:reader",
+      "application": "CRM",
+      "role": "reader",
+      "owner": "M3",
+      "privileged": false
+    },
+    {
+      "id": "CRM:editor",
+      "application": "CRM",
+      "role": "editor",
+      "owner": "M3",
+      "privileged": false
+    },
+    {
+      "id": "CRM:requester",
+      "application": "CRM",
+      "role": "requester",
+      "owner": "M3",
+      "privileged": false
+    },
+    {
+      "id": "CRM:approver",
+      "application": "CRM",
+      "role": "approver",
+      "owner": "M3",
+      "privileged": false
+    },
+    {
+      "id": "CRM:admin",
+      "application": "CRM",
+      "role": "admin",
+      "owner": "M3",
+      "privileged": true
+    },
+    {
+      "id": "ServiceDesk:reader",
+      "application": "ServiceDesk",
+      "role": "reader",
+      "owner": "M4",
+      "privileged": false
+    },
+    {
+      "id": "ServiceDesk:editor",
+      "application": "ServiceDesk",
+      "role": "editor",
+      "owner": "M4",
+      "privileged": false
+    },
+    {
+      "id": "ServiceDesk:requester",
+      "application": "ServiceDesk",
+      "role": "requester",
+      "owner": "M4",
+      "privileged": false
+    },
+    {
+      "id": "ServiceDesk:approver",
+      "application": "ServiceDesk",
+      "role": "approver",
+      "owner": "M4",
+      "privileged": false
+    },
+    {
+      "id": "ServiceDesk:admin",
+      "application": "ServiceDesk",
+      "role": "admin",
+      "owner": "M4",
+      "privileged": true
+    }
+  ],
+  "assignments": [
+    {
+      "id": "A001",
+      "identity": "U001",
+      "entitlement": "Ledger:reader"
+    },
+    {
+      "id": "A002",
+      "identity": "U002",
+      "entitlement": "People:reader"
+    },
+    {
+      "id": "A003",
+      "identity": "U003",
+      "entitlement": "Directory:reader"
+    },
+    {
+      "id": "A004",
+      "identity": "U004",
+      "entitlement": "CRM:reader"
+    },
+    {
+      "id": "A005",
+      "identity": "U005",
+      "entitlement": "ServiceDesk:reader"
+    },
+    {
+      "id": "A006",
+      "identity": "U006",
+      "entitlement": "Ledger:reader"
+    },
+    {
+      "id": "A007",
+      "identity": "U007",
+      "entitlement": "People:reader"
+    },
+    {
+      "id": "A008",
+      "identity": "U008",
+      "entitlement": "Directory:reader"
+    },
+    {
+      "id": "A009",
+      "identity": "U009",
+      "entitlement": "CRM:reader"
+    },
+    {
+      "id": "A010",
+      "identity": "U010",
+      "entitlement": "ServiceDesk:reader"
+    },
+    {
+      "id": "A011",
+      "identity": "U011",
+      "entitlement": "Ledger:reader"
+    },
+    {
+      "id": "A012",
+      "identity": "U012",
+      "entitlement": "People:reader"
+    },
+    {
+      "id": "A013",
+      "identity": "U013",
+      "entitlement": "Directory:reader"
+    },
+    {
+      "id": "A014",
+      "identity": "U014",
+      "entitlement": "CRM:reader"
+    },
+    {
+      "id": "A015",
+      "identity": "U015",
+      "entitlement": "ServiceDesk:reader"
+    },
+    {
+      "id": "A016",
+      "identity": "U016",
+      "entitlement": "Ledger:reader"
+    },
+    {
+      "id": "A017",
+      "identity": "U017",
+      "entitlement": "People:reader"
+    },
+    {
+      "id": "A018",
+      "identity": "U018",
+      "entitlement": "Directory:reader"
+    },
+    {
+      "id": "A019",
+      "identity": "U019",
+      "entitlement": "CRM:reader"
+    },
+    {
+      "id": "A020",
+      "identity": "U020",
+      "entitlement": "ServiceDesk:reader"
+    },
+    {
+      "id": "A021",
+      "identity": "U021",
+      "entitlement": "Ledger:reader"
+    },
+    {
+      "id": "A022",
+      "identity": "U022",
+      "entitlement": "People:reader"
+    },
+    {
+      "id": "A023",
+      "identity": "U023",
+      "entitlement": "Directory:reader"
+    },
+    {
+      "id": "A024",
+      "identity": "U024",
+      "entitlement": "CRM:reader"
+    },
+    {
+      "id": "A025",
+      "identity": "U025",
+      "entitlement": "ServiceDesk:reader"
+    },
+    {
+      "id": "A026",
+      "identity": "U026",
+      "entitlement": "Ledger:reader"
+    },
+    {
+      "id": "A027",
+      "identity": "U027",
+      "entitlement": "People:reader"
+    },
+    {
+      "id": "A028",
+      "identity": "U028",
+      "entitlement": "Directory:reader"
+    },
+    {
+      "id": "A029",
+      "identity": "U029",
+      "entitlement": "CRM:reader"
+    },
+    {
+      "id": "A030",
+      "identity": "U030",
+      "entitlement": "ServiceDesk:reader"
+    },
+    {
+      "id": "A031",
+      "identity": "U031",
+      "entitlement": "Ledger:reader"
+    },
+    {
+      "id": "A032",
+      "identity": "U032",
+      "entitlement": "People:reader"
+    },
+    {
+      "id": "A033",
+      "identity": "U033",
+      "entitlement": "Directory:reader"
+    },
+    {
+      "id": "A034",
+      "identity": "U034",
+      "entitlement": "CRM:reader"
+    },
+    {
+      "id": "A035",
+      "identity": "U035",
+      "entitlement": "ServiceDesk:reader"
+    },
+    {
+      "id": "A036",
+      "identity": "U036",
+      "entitlement": "Ledger:reader"
+    },
+    {
+      "id": "A037",
+      "identity": "U037",
+      "entitlement": "People:reader"
+    },
+    {
+      "id": "A038",
+      "identity": "U038",
+      "entitlement": "Directory:reader"
+    },
+    {
+      "id": "A039",
+      "identity": "U039",
+      "entitlement": "CRM:reader"
+    },
+    {
+      "id": "A040",
+      "identity": "U040",
+      "entitlement": "ServiceDesk:reader"
+    },
+    {
+      "id": "A041",
+      "identity": "U041",
+      "entitlement": "Ledger:reader"
+    },
+    {
+      "id": "A042",
+      "identity": "U042",
+      "entitlement": "People:reader"
+    },
+    {
+      "id": "A043",
+      "identity": "U043",
+      "entitlement": "Directory:reader"
+    },
+    {
+      "id": "A044",
+      "identity": "U044",
+      "entitlement": "CRM:reader"
+    },
+    {
+      "id": "A045",
+      "identity": "U045",
+      "entitlement": "ServiceDesk:reader"
+    },
+    {
+      "id": "A046",
+      "identity": "U046",
+      "entitlement": "Ledger:reader"
+    },
+    {
+      "id": "A047",
+      "identity": "U047",
+      "entitlement": "People:reader"
+    },
+    {
+      "id": "A048",
+      "identity": "U048",
+      "entitlement": "Directory:reader"
+    },
+    {
+      "id": "A049",
+      "identity": "U049",
+      "entitlement": "CRM:reader"
+    },
+    {
+      "id": "A050",
+      "identity": "U050",
+      "entitlement": "ServiceDesk:reader"
+    },
+    {
+      "id": "A051",
+      "identity": "U051",
+      "entitlement": "Ledger:reader"
+    },
+    {
+      "id": "A052",
+      "identity": "U052",
+      "entitlement": "People:reader"
+    },
+    {
+      "id": "A053",
+      "identity": "U053",
+      "entitlement": "Directory:reader"
+    },
+    {
+      "id": "A054",
+      "identity": "U054",
+      "entitlement": "CRM:reader"
+    },
+    {
+      "id": "A055",
+      "identity": "U055",
+      "entitlement": "ServiceDesk:reader"
+    },
+    {
+      "id": "A056",
+      "identity": "U056",
+      "entitlement": "Ledger:reader"
+    },
+    {
+      "id": "A057",
+      "identity": "U057",
+      "entitlement": "People:reader"
+    },
+    {
+      "id": "A058",
+      "identity": "U058",
+      "entitlement": "Directory:reader"
+    },
+    {
+      "id": "A059",
+      "identity": "U059",
+      "entitlement": "CRM:reader"
+    },
+    {
+      "id": "A060",
+      "identity": "U060",
+      "entitlement": "ServiceDesk:reader"
+    },
+    {
+      "id": "A061",
+      "identity": "U001",
+      "entitlement": "Ledger:requester"
+    },
+    {
+      "id": "A062",
+      "identity": "U001",
+      "entitlement": "Ledger:approver"
+    },
+    {
+      "id": "A063",
+      "identity": "U002",
+      "entitlement": "Directory:admin"
+    },
+    {
+      "id": "A064",
+      "identity": "U999",
+      "entitlement": "CRM:reader"
+    }
+  ]
+}

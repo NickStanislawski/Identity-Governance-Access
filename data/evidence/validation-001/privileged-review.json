@@ -1,0 +1,11 @@
+[
+  {
+    "assignment": "A063",
+    "reviewer": "M2",
+    "decision": "revoke",
+    "rationale": "excessive, privileged",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  }
+]

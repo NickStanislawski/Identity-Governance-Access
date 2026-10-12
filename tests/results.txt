@@ -1,0 +1,19 @@
+test_boundary_stale (test_governance.GovernanceTests.test_boundary_stale) ... ok
+test_clean_baseline (test_governance.GovernanceTests.test_clean_baseline) ... ok
+test_collection (test_governance.GovernanceTests.test_collection) ... ok
+test_decisions (test_governance.GovernanceTests.test_decisions) ... ok
+test_drift (test_governance.GovernanceTests.test_drift) ... ok
+test_duplicate (test_governance.GovernanceTests.test_duplicate) ... ok
+test_expiring_exception (test_governance.GovernanceTests.test_expiring_exception) ... ok
+test_incomplete_review (test_governance.GovernanceTests.test_incomplete_review) ... ok
+test_remediation (test_governance.GovernanceTests.test_remediation) ... ok
+test_repeatability_and_manifest (test_governance.GovernanceTests.test_repeatability_and_manifest) ... ok
+test_risks (test_governance.GovernanceTests.test_risks) ... ok
+test_targets (test_governance.GovernanceTests.test_targets) ... ok
+test_unknown_entitlement (test_governance.GovernanceTests.test_unknown_entitlement) ... ok
+test_wrong_reviewer (test_governance.GovernanceTests.test_wrong_reviewer) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.088s
+
+OK

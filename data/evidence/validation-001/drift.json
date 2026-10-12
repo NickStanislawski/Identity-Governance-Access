@@ -1,0 +1,31 @@
+{
+  "granted": [],
+  "removed": [
+    {
+      "id": "A060",
+      "identity": "U060",
+      "entitlement": "ServiceDesk:reader"
+    },
+    {
+      "id": "A061",
+      "identity": "U001",
+      "entitlement": "Ledger:requester"
+    },
+    {
+      "id": "A062",
+      "identity": "U001",
+      "entitlement": "Ledger:approver"
+    },
+    {
+      "id": "A063",
+      "identity": "U002",
+      "entitlement": "Directory:admin"
+    },
+    {
+      "id": "A064",
+      "identity": "U999",
+      "entitlement": "CRM:reader"
+    }
+  ],
+  "changed": []
+}

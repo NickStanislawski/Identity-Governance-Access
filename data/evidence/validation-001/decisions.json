@@ -1,0 +1,578 @@
+[
+  {
+    "assignment": "A001",
+    "reviewer": "M0",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A002",
+    "reviewer": "M1",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A003",
+    "reviewer": "M2",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A004",
+    "reviewer": "M3",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A005",
+    "reviewer": "M4",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A006",
+    "reviewer": "M0",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A007",
+    "reviewer": "M1",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A008",
+    "reviewer": "M2",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A009",
+    "reviewer": "M3",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A010",
+    "reviewer": "M4",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A011",
+    "reviewer": "M0",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A012",
+    "reviewer": "M1",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A013",
+    "reviewer": "M2",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A014",
+    "reviewer": "M3",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A015",
+    "reviewer": "M4",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A016",
+    "reviewer": "M0",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A017",
+    "reviewer": "M1",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A018",
+    "reviewer": "M2",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A019",
+    "reviewer": "M3",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A020",
+    "reviewer": "M4",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A021",
+    "reviewer": "M0",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A022",
+    "reviewer": "M1",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A023",
+    "reviewer": "M2",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A024",
+    "reviewer": "M3",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A025",
+    "reviewer": "M4",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A026",
+    "reviewer": "M0",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A027",
+    "reviewer": "M1",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A028",
+    "reviewer": "M2",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A029",
+    "reviewer": "M3",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A030",
+    "reviewer": "M4",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A031",
+    "reviewer": "M0",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A032",
+    "reviewer": "M1",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A033",
+    "reviewer": "M2",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A034",
+    "reviewer": "M3",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A035",
+    "reviewer": "M4",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A036",
+    "reviewer": "M0",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A037",
+    "reviewer": "M1",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A038",
+    "reviewer": "M2",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A039",
+    "reviewer": "M3",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A040",
+    "reviewer": "M4",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A041",
+    "reviewer": "M0",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A042",
+    "reviewer": "M1",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A043",
+    "reviewer": "M2",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A044",
+    "reviewer": "M3",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A045",
+    "reviewer": "M4",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A046",
+    "reviewer": "M0",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A047",
+    "reviewer": "M1",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A048",
+    "reviewer": "M2",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A049",
+    "reviewer": "M3",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A050",
+    "reviewer": "M4",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A051",
+    "reviewer": "M0",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A052",
+    "reviewer": "M1",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A053",
+    "reviewer": "M2",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A054",
+    "reviewer": "M3",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A055",
+    "reviewer": "M4",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A056",
+    "reviewer": "M0",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A057",
+    "reviewer": "M1",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A058",
+    "reviewer": "M2",
+    "decision": "approve",
+    "rationale": "Aligned with department baseline",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A059",
+    "reviewer": "M3",
+    "decision": "exception",
+    "rationale": "stale",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": "2026-11-12",
+    "simulated": true
+  },
+  {
+    "assignment": "A060",
+    "reviewer": "M4",
+    "decision": "revoke",
+    "rationale": "inactive",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A061",
+    "reviewer": "M0",
+    "decision": "revoke",
+    "rationale": "sod",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A062",
+    "reviewer": "M0",
+    "decision": "revoke",
+    "rationale": "sod",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A063",
+    "reviewer": "M2",
+    "decision": "revoke",
+    "rationale": "excessive, privileged",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  },
+  {
+    "assignment": "A064",
+    "reviewer": "M3",
+    "decision": "revoke",
+    "rationale": "orphan",
+    "timestamp": "2026-10-12T09:40:46.278485+00:00",
+    "exception_expiry": null,
+    "simulated": true
+  }
+]

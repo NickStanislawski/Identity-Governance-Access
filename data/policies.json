@@ -1,0 +1,12 @@
+{
+  "status": "documented policy; implementation constants in scripts/governance.py",
+  "rbac": "Department baseline: Finance/Ledger, HR/People, IT/Directory, Sales/CRM, Operations/ServiceDesk reader",
+  "sod": [
+    "Ledger:requester",
+    "Ledger:approver"
+  ],
+  "stale_days": 90,
+  "admin_department": "IT",
+  "review_routing": "Application entitlement owner",
+  "exceptions": "Expiry and rationale required; periodic expiry enforcement is future work"
+}

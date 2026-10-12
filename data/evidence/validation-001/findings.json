@@ -1,0 +1,51 @@
+[
+  {
+    "assignment": "A061",
+    "identity": "U001",
+    "kind": "sod",
+    "score": 95,
+    "reviewer": "M0"
+  },
+  {
+    "assignment": "A062",
+    "identity": "U001",
+    "kind": "sod",
+    "score": 95,
+    "reviewer": "M0"
+  },
+  {
+    "assignment": "A064",
+    "identity": "U999",
+    "kind": "orphan",
+    "score": 90,
+    "reviewer": "M3"
+  },
+  {
+    "assignment": "A063",
+    "identity": "U002",
+    "kind": "excessive",
+    "score": 85,
+    "reviewer": "M2"
+  },
+  {
+    "assignment": "A060",
+    "identity": "U060",
+    "kind": "inactive",
+    "score": 80,
+    "reviewer": "M4"
+  },
+  {
+    "assignment": "A063",
+    "identity": "U002",
+    "kind": "privileged",
+    "score": 70,
+    "reviewer": "M2"
+  },
+  {
+    "assignment": "A059",
+    "identity": "U059",
+    "kind": "stale",
+    "score": 50,
+    "reviewer": "M3"
+  }
+]
